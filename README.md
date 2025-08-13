@@ -1,1 +1,1 @@
-# The-AGSD-Taxonomy-Update-Pipeline
+# The AGSD Taxonomy Update Pipeline
